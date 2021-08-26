@@ -1,2 +1,2 @@
 # DOM_Events_TODOList
-Todo list using DOM, EventListeners and basic JS. 
+Todo list using DOM, EventListeners and basic JS, you can also filter through the items inorder to find the TOdo you are looking for... 
